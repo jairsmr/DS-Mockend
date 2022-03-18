@@ -2,4 +2,5 @@
 
 ## Objetivo do software
 
-- Serviço utilizado para implementação  do Back-end e API's de qualquer aplicação utilizando elementos Gráficos tais como; Telas de login, formulários de preenchimento.
+- Ser uma extensão para navegadores e/ou editor de código (Visual Studio Code) que realiza a implemetação de forma simulada do ambiente back-end da aplicação Front-end utilizando Rest-API fake
+- 
